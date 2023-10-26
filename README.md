@@ -3,7 +3,6 @@
 I made this Pong game to help me learn Python curses.
 
 To play:
-
 1. Download the game files as a zip archive.
 2. Extract the contents to a directory of your choice.
 3. Open CMD.
